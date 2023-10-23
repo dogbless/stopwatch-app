@@ -1,0 +1,7 @@
+C:\Users\jesse\Downloads\c# fundamentals\stopwatch-app\bin\Debug\stopwatch-app.exe.config
+C:\Users\jesse\Downloads\c# fundamentals\stopwatch-app\bin\Debug\stopwatch-app.exe
+C:\Users\jesse\Downloads\c# fundamentals\stopwatch-app\bin\Debug\stopwatch-app.pdb
+C:\Users\jesse\Downloads\c# fundamentals\stopwatch-app\obj\Debug\stopwatch-app.csproj.AssemblyReference.cache
+C:\Users\jesse\Downloads\c# fundamentals\stopwatch-app\obj\Debug\stopwatch-app.csproj.CoreCompileInputs.cache
+C:\Users\jesse\Downloads\c# fundamentals\stopwatch-app\obj\Debug\stopwatch-app.exe
+C:\Users\jesse\Downloads\c# fundamentals\stopwatch-app\obj\Debug\stopwatch-app.pdb
